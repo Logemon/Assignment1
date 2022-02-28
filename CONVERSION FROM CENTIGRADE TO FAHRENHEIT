@@ -1,0 +1,3 @@
+a=float(input())
+centi=((a*9/5)+32)
+print(round(centi,2))
