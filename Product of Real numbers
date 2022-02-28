@@ -1,0 +1,4 @@
+a=int(input())
+b=int(input())
+c=a*b
+print(f"The product of the given numbers is {c}")
