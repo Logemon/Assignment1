@@ -1,0 +1,2 @@
+a={("name":"loke","age":25,"gender":"male"),("name":"viki","age":27,"gender":"male")}
+print(a)
